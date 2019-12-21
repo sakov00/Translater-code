@@ -1,0 +1,62 @@
+﻿  Error.cpp
+  FST.cpp
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Error.cpp(58,3): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "ERROR_ENTRY"
+  Generation.cpp
+  Greibach.cpp
+  IT.cpp
+  In.cpp
+  LT.cpp
+  LexAnalys.cpp
+C:\Users\Евгений\Desktop\курсач\SEV-2019\FST.cpp(80,59): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Евгений\Desktop\курсач\SEV-2019\LexAnalys.cpp(293,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Log.cpp
+  MAIN.cpp
+  MFST.cpp
+C:\Users\Евгений\Desktop\курсач\SEV-2019\LexAnalys.cpp(303,22): warning C4018: <: несоответствие типов со знаком и без знака
+  PN.cpp
+  Parm.cpp
+C:\Users\Евгений\Desktop\курсач\SEV-2019\MFST.cpp(229,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         with
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         [
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:             _Elem=char
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         ]
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         with
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         [
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Iter=wchar_t *
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         ]
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         with
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         [
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Iter=wchar_t *
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         ]
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         with
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         [
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Iter=wchar_t *
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         ]
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         with
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         [
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Iter=wchar_t *
+C:\Files\Visual Studio 2019\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         ]
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :         with
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :         [
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :             _Elem=wchar_t,
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :             _Alloc=std::allocator<char>
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :         ]
+  SA.cpp
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :         with
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :         [
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :             _Elem=wchar_t,
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :             _Alloc=std::allocator<char>
+C:\Users\Евгений\Desktop\курсач\SEV-2019\Parm.cpp(27): message :         ]
+  stdafx.cpp
+  Создание кода...
+C:\Users\Евгений\Desktop\курсач\SEV-2019\SA.cpp(17,7): warning C4101: IsParam: неиспользованная локальная переменная
+  SEV-2019.vcxproj -> C:\Users\Евгений\Desktop\курсач\SEV-2019\Debug\SEV-2019.exe

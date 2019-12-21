@@ -1,1 +1,37 @@
+STANDART;
+num function sum(num a, num b, num c)
+{
 
+init num result=011010;
+result=(a+b)*c;
+write(result);
+back result;
+}
+glavn
+{
+init char sim="f";
+init num first;
+init num fucj=0b1101;
+init num second=0225;
+init num third=0236;
+init str message="kak";
+init str stroka="world";
+first= 0223 / 02;
+first=second - 0222 + sum(fucj,first,first);
+first=first();
+init num rez;
+init str sb="Hello";
+init str kak="kak";
+rez=sum(fucj,first,first);
+sb=strcat(stroka);
+sb=strcpy(stroka);
+
+if(0222 < 0111)
+{
+write(message);
+write(sb);
+}
+write(message);
+write(sb);
+back 00;
+}
